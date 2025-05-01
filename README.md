@@ -23,7 +23,10 @@
 
 ## 5. 분석 결과
 - 2025년 폭염지역예측 -> LSTM 으로 1년 후 폭염발생이 가장 많이 발생할 곳을 예측 -> 광주시 선정
+![image](https://github.com/user-attachments/assets/c7ddfb46-fb7c-4cdd-94d4-80b8d6369d94)
+
 - 폭염대피시설 최적입지 선정 -> MCLP,휴리스틱 알고리즘을 결합하여 총 10곳의 최적입지 선정 -> 수요의 약 68% 커버
+![image](https://github.com/user-attachments/assets/100bdd83-d0cf-4e3f-829f-69afff0f0215)
 
 ## 6. 리뷰
 - 정상성 가정, 데이터 선형성 가정 등으로 전통적 시계열 모형이 비선형 데이터를 표현하고 나타내기에는 무리가 있다는 것을 직접 알 수 있었음
