@@ -1,4 +1,6 @@
 # 2025년 폭염예상지역 선정 및 폭염대피시설(안전숙소) 최적입지 선정
+![image](https://github.com/user-attachments/assets/16bab996-04d6-41a7-9005-93a8bfab5e4c)
+
 프로젝트 기간: 2024/09~2024/12 <br> 
 팀 구성: 1인 프로젝트
 
