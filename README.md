@@ -28,6 +28,7 @@
 ![image](https://github.com/user-attachments/assets/c7ddfb46-fb7c-4cdd-94d4-80b8d6369d94)
 
 - 폭염대피시설 최적입지 선정 -> MCLP,휴리스틱 알고리즘을 결합하여 총 10곳의 최적입지 선정 -> 수요의 약 68% 커버
+  
 ![image](https://github.com/user-attachments/assets/100bdd83-d0cf-4e3f-829f-69afff0f0215)
 
 ## 6. 리뷰
